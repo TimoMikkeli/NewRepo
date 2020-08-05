@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Git! I start to like You!");
-            Console.WriteLine("I made made this on simulate_A!");
+            Console.WriteLine("My colleague made this on simulate_B!");
         }
     }
 }
